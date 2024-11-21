@@ -1,11 +1,4 @@
-## Привет 🙋‍♂️, меня зовут Бекир.
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="099A3BE4-55C5-4AC6-B306-7C16D620966B.gif">
-  <source media="(prefers-color-scheme: dark)" srcset="EC2CB232-C99C-4FC0-9DE5-559B1A6FAC0F.gif">
-  <img src="68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif" width="350" height="250" />
-</picture>
-
-## О себе
+## Привет 🙋‍♂️, меня зовут Бекир
 
 Я занимась fron-end разработкой и в общем интересуюсь вебом 🌏.
 
@@ -22,11 +15,8 @@ Youtube.
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS 3" alt="CSS 3" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/npm/npm-original-wordmark.svg" title="Npm" alt="Npm" width="40" height="40"/>&nbsp;
-  <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" title="nodejs">
-  <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/express/express-original-wordmark.svg" alt="express" title="express">
-  <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mongodb/mongodb-original-wordmark.svg" alt="mongoDB" title="mongoDB">
+<img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nextjs/nextjs-original-wordmark.svg" title="Next js" alt="Nextjs" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue js" alt="Vue js" width="40" height="40" />&nbsp;
 </div>
 
 ## Мои контакты
