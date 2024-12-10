@@ -1,15 +1,9 @@
-## Привет 🙋‍♂️, меня зовут Бекир
+## Hi 🙋‍♂️, I'm Bekir
+Frontend developer with more than 2 years of experience.
+</br>
+I have good knowledge in frontend development on JavaScript.
 
-Я занимась fron-end разработкой и в общем интересуюсь вебом 🌏.
-
-Помимо front-end направления, также интересуюсь и back-end. 
-
-Стараюсь выделять время для изучения новых технологий и инструментов, связанных с разработкой. 
-
-В качестве источников знаний использую официальную документацию 📖, читаю статьи 📰, смотрю обучающие видео 🎥 на
-Youtube.
-
-## Стек
+## Technical Stack
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML 5" alt="HTML 5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS 3" alt="CSS 3" width="40" height="40"/>&nbsp;
@@ -19,10 +13,7 @@ Youtube.
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue js" alt="Vue js" width="40" height="40" />&nbsp;
 </div>
 
-## Мои контакты
-<div>
-  <img src="https://github.com/simon-Cat/simon-Cat/assets/110557132/0fb17009-74c0-4e33-b16e-836b67901acc" alt="Электронная почта" width="15" height="15"> BekirMurtazaev@yandex.ru
-  
-  <img src="https://github.com/simon-Cat/simon-Cat/assets/110557132/6cc63c9e-c9fe-4c84-ba58-b22f4c9886c7" alt="Telegram" width="15" height="15"> https://t.me/Simon_catt
-
-</div>
+## How to reach me
+<a href="https://t.me/Simon_catt" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
